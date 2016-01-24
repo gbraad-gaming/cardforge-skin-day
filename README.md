@@ -7,7 +7,7 @@ Description
 
 A light theme for Forge, ideal for E-ink screens.
 
-![Screenshot of skin on Android](https://github.com/gbraad/forge-skin-day/blob/master/screenshot.png)
+![Screenshot of skin on Android](https://github.com/gbraad/forge-skin-day/blob/master/screenshot.jpg).
 
 
 Install
